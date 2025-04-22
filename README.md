@@ -1,5 +1,5 @@
-# Microservicio de Seguimiento de Envios
-Este es un microservicio simple desarrollado con Spring Boot, que permite interactuar con una base de datos Oracle para gestionar información de gestión de usuarios en una aplicación de viajes con mascotas.
+# Microservicio de gestionar información de usuarios
+Este es un microservicio simple desarrollado con Spring Boot, que permite interactuar con una base de datos Oracle para gestionar información de usuarios en una aplicación de viajes con mascotas.
 
 ## Características
 
